@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/ecommerce.services.user/.vs
+/ecommerce.services.user/ecommerce.services.user/bin/Debug/net6.0
+/ecommerce.services.user/ecommerce.services.user/obj
