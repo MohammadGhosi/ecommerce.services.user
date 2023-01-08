@@ -6,3 +6,6 @@
 /ecommerce.services.user/.vs
 /ecommerce.services.user/ecommerce.services.user/bin/Debug/net6.0
 /ecommerce.services.user/ecommerce.services.user/obj
+/ecommerce.services.order/ecommerce.services.order/bin/Debug/net6.0
+/ecommerce.services.order/.vs
+/ecommerce.services.order/ecommerce.services.order/obj
